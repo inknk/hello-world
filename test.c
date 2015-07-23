@@ -3,5 +3,5 @@
 int main()
 {
  	printf("This is for test.\n");
-  return 0;
+ 	return 0;
 }
